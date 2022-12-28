@@ -1,6 +1,7 @@
 ---
 title: Meet the Reddit user who keeps beating powerful NBA reporters to scoops
 date: 2020-02-13 -0500
+tags: [sports]
 ---
 
 > SEAinLA won’t post scoops to Reddit without his friends’ permission, and only if they’re certain the information is correct. All of his posts have turned out to be accurate thus far.

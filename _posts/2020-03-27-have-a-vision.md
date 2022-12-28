@@ -1,6 +1,7 @@
 ---
 title: You need to have a vision
 date: 2020-03-27 -0500
+tags: [leadership]
 ---
 
 > You can’t be reactive. You have to have a sense of where you’re going. Because if you don’t, how can you know how to respond to the troubles that pop up along the way?

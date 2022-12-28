@@ -1,6 +1,7 @@
 ---
 title: Cost and value
 date: 2020-05-19 -0500
+tags: [product management]
 ---
 
 > Your customers don’t care what it took for you to make something. They care about what it does for them.
