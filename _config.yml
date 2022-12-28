@@ -21,10 +21,10 @@ timezone: America/New_York
 
 title: Gerrie Diaz                          # the main title
 
-tagline: B2B Product Leader   # it will display as the sub-title
+tagline: B2B SaaS Product Leader   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Gerrie Diaz - B2B SaaS Product Leader
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://pronouncedjerry.github.io'
