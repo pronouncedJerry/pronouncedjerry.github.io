@@ -1,22 +1,21 @@
 #  The contact options.
-
 -
-  type: github
-  icon: 'fab fa-github'
+   type: linkedin
+   icon: 'fab fa-linkedin'   
+   url:  'https://www.linkedin.com/in/gerriediaz'
 -
   type: twitter
   icon: 'fab fa-twitter'
 -
   type: email
   icon: 'fas fa-envelope'
-  # noblank: true            # open link in current tab
--
-   type: linkedin
-   icon: 'fab fa-linkedin'   
-   url:  'https://www.linkedin.com/in/gerriediaz'
+  noblank: true            # open link in current tab
 
 
 # Uncomment and complete the url below to enable more contact options
+# -
+#  type: github
+#  icon: 'fab fa-github'
 # -
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
