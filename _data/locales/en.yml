@@ -12,7 +12,7 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: Home
   categories: Categories
-  tags: Tags
+  tags: Topics
   archives: Archives
   about: About
 
@@ -24,7 +24,7 @@ search:
 
 panel:
   lastmod: Recently Updated
-  trending_tags: Trending Tags
+  trending_tags: Trending Topics
   toc: Contents
 
 copyright:
