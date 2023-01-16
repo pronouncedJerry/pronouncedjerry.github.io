@@ -8,4 +8,4 @@ tags: [product management]
 
 \- Alex Reeve
 
-[Go to original article](https://bootcamp.uxdesign.cc/22-principles-for-great-product-managers-61414598628){:target="_blank"}
+[Go to original article](https://bootcamp.uxdesign.cc/22-principles-for-great-product-managers-61414598628?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

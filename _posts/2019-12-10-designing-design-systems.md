@@ -8,4 +8,4 @@ tags: [design]
 
 \- Ethan Muller
 
-[Go to original article](https://sparkbox.com/foundry/designing_for_design_systems){:target="_blank"}
+[Go to original article](https://sparkbox.com/foundry/designing_for_design_systems?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

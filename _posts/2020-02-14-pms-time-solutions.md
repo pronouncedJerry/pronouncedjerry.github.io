@@ -8,4 +8,4 @@ tags: [product management]
 
 \- Paul Adams
 
-[Go to original article](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/){:target="_blank"}
+[Go to original article](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

@@ -8,4 +8,4 @@ tags: [leadership]
 
 \- Chris Parsons
 
-[Go to original article](https://www.linkedin.com/pulse/how-lead-from-home-chris-parsons/){:target="_blank"}
+[Go to original article](https://www.linkedin.com/pulse/how-lead-from-home-chris-parsons?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

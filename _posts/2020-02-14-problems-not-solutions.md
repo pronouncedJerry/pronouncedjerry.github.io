@@ -8,4 +8,4 @@ tags: [product management]
 
 \- Ben Balter
 
-[Go to original article](https://ben.balter.com/2018/07/16/problems-not-solutions/){:target="_blank"}
+[Go to original article](https://ben.balter.com/2018/07/16/problems-not-solutions?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

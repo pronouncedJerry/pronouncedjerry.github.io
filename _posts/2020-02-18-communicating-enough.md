@@ -8,4 +8,4 @@ tags: [communication]
 
 \- Michael Natkin
 
-[Go to original article](https://blog.glowforge.com/you-arent-communicating-nearly-enough/){:target="_blank"}
+[Go to original article](https://blog.glowforge.com/you-arent-communicating-nearly-enough?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

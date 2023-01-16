@@ -8,4 +8,4 @@ tags: [culture, communication]
 
 \- Aja Hammerly
 
-[Go to original article](https://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html){:target="_blank"}
+[Go to original article](https://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

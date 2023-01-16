@@ -8,4 +8,4 @@ tags: [leadership]
 
 \- Chris Parsons
 
-[Go to original article](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/){:target="_blank"}
+[Go to original article](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

@@ -8,4 +8,4 @@ tags: [psychology, communication]
 
 \- Ryan Holiday
 
-[Go to original article](https://ryanholiday.net/33-things/){:target="_blank"}
+[Go to original article](https://ryanholiday.net/33-things?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

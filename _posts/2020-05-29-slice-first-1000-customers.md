@@ -8,4 +8,4 @@ tags: [growth]
 
 \- Ali Abouelatta
 
-[Go to original article](https://read.first1000.co/p/-slice){:target="_blank"}
+[Go to original article](https://read.first1000.co/p/-slice?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

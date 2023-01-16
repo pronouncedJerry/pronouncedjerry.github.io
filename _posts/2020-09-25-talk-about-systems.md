@@ -8,4 +8,4 @@ tags: [education]
 
 \- Seth Godin
 
-[Go to original article](https://seths.blog/2020/09/when-can-we-talk-about-your-system/){:target="_blank"}
+[Go to original article](https://seths.blog/2020/09/when-can-we-talk-about-your-system?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

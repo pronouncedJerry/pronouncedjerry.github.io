@@ -8,4 +8,4 @@ tags: [psychology, wealth]
 
 \- Daily Stoic
 
-[Go to original article](https://dailystoic.com/how-much-white-space-do-you-have/){:target="_blank"}
+[Go to original article](https://dailystoic.com/how-much-white-space-do-you-have?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

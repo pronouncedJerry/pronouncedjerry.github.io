@@ -8,4 +8,4 @@ tags: [family]
 
 \- Bryan Dyson
 
-[Go to original article](https://chrisyeh.com/2015/10/youre-not-indispensable-except-when-you.html){:target="_blank"}
+[Go to original article](https://chrisyeh.com/2015/10/youre-not-indispensable-except-when-you.html?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

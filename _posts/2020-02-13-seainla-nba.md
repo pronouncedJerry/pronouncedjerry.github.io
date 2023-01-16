@@ -8,4 +8,4 @@ tags: [sports]
 
 \- Owen Phillips
 
-[Go to original article](https://deadspin.com/meet-the-reddit-user-who-keeps-beating-powerful-nba-rep-1828172044){:target="_blank"}
+[Go to original article](https://deadspin.com/meet-the-reddit-user-who-keeps-beating-powerful-nba-rep-1828172044?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

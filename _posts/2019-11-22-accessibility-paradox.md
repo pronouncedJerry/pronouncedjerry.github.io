@@ -8,4 +8,4 @@ tags: [design, accessibility]
 
 \- Anthony Tseng
 
-[Go to original article](https://uxmovement.com/thinking/the-aesthetic-accessibility-paradox/){:target="_blank"}
+[Go to original article](https://uxmovement.com/thinking/the-aesthetic-accessibility-paradox?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

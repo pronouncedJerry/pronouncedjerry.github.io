@@ -8,4 +8,4 @@ tags: [sports, psychology]
 
 \- Kobe Bryant
 
-[Go to original article](https://www.espn.com/nba/story/_/id/28751929/the-stories-people-closest-kobe-bryant-keep-remembering){:target="_blank"}
+[Go to original article](https://www.espn.com/nba/story/_/id/28751929/the-stories-people-closest-kobe-bryant-keep-remembering?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

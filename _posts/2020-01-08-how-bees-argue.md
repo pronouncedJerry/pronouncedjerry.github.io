@@ -8,4 +8,4 @@ And that’s how bee swarms argue, re: picking a new site. The process only incl
 
 \- Robin Hanson
 
-[Go to original article](https://www.overcomingbias.com/2020/01/how-bees-argue.html){:target="_blank"}
+[Go to original article](https://www.overcomingbias.com/2020/01/how-bees-argue.html?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

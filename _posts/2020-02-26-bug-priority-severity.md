@@ -8,4 +8,4 @@ tags: [product management]
 
 \- Bobby Gill
 
-[Go to original article](https://www.bluelabellabs.com/blog/dont-confuse-a-bugs-priority-with-its-severity/){:target="_blank"}
+[Go to original article](https://www.bluelabellabs.com/blog/dont-confuse-a-bugs-priority-with-its-severity?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

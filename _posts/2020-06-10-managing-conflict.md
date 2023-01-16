@@ -8,4 +8,4 @@ tags: [leadership, product management]
 
 \- Stay SaaSy
 
-[Go to original article](https://staysaasy.com/product/2020/09/06/soft-skills-for-managers.html){:target="_blank"}
+[Go to original article](https://staysaasy.com/product/2020/09/06/soft-skills-for-managers.html?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

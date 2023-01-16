@@ -8,4 +8,4 @@ tags: [design, accessibility]
 
 \- Siobhan Neela-Stock
 
-[Go to original article](https://mashable.com/article/americans-with-disabilities-act-website-accessibility){:target="_blank"}
+[Go to original article](https://mashable.com/article/americans-with-disabilities-act-website-accessibility?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

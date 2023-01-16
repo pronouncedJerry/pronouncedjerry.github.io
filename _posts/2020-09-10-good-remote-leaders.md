@@ -8,4 +8,4 @@ tags: [leadership]
 
 \- Arianne Cohen
 
-[Go to original article](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones){:target="_blank"}
+[Go to original article](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

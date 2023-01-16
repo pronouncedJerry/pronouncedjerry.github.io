@@ -8,4 +8,4 @@ tags: [product management]
 
 \- Seth Godin
 
-[Go to original article](https://seths.blog/2020/05/cost-and-value/){:target="_blank"}
+[Go to original article](https://seths.blog/2020/05/cost-and-value?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}

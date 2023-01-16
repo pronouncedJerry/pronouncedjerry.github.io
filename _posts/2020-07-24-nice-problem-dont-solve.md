@@ -8,4 +8,4 @@ tags: [product management]
 
 \- David Nicholas Williams
 
-[Go to original article](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now/){:target="_blank"}
+[Go to original article](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now?utm_source=pronouncedjerry&utm_medium=blog&utm_campaign=posts){:target="_blank"}
