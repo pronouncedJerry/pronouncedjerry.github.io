@@ -3,6 +3,15 @@
 icon: fas fa-info-circle
 order: 1
 ---
+## My Freelance Services
+* Enhance existing SaaS products
+* Innovate with new solutions
+* Translate business goals into product features and requirements
+* nBalance resources, timelines, and costs
+* Measure and report on the development progress
+* Conduct market & competitive analysis
+* Lead high-level design efforts such as workflow diagramming, user journey mapping, and wireframing
+* Responsive web platforms and native mobile apps
 
 ## About Me
 I love to build technology that connects people and positively impacts society. My interests include: [Product Management](https://gerriediaz.com/tags/product-management/), [Sports](https://gerriediaz.com/tags/sports/), and [Psychology](https://gerriediaz.com/tags/psychology/).
