@@ -7,7 +7,7 @@ order: 1
 * Enhance existing SaaS products
 * Innovate with new solutions
 * Translate business goals into product features and requirements
-* nBalance resources, timelines, and costs
+* Balance resources, timelines, and costs
 * Measure and report on the development progress
 * Conduct market & competitive analysis
 * Lead high-level design efforts such as workflow diagramming, user journey mapping, and wireframing
